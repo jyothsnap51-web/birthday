@@ -1,0 +1,13 @@
+a=input("please enter first name: ") 
+b=input("please enter second name: ")
+c=input("please enter third name: ")
+d=input("please enter fourth name: ")
+day_1=input(print("please enter the birthday of", a))
+day_2=input(print("please enter the birthday of",b))
+day_3=input(print("please enter the birthday of",c))
+day_4=input(print("please enter the birthday of",d))
+print(a,"'s birthday is on ",day_1)
+print(b,"'s birthday is on ",day_2)
+print(c,"'s birthday is on ",day_3)
+print(d,"'s birthday is on ",day_4)
+
